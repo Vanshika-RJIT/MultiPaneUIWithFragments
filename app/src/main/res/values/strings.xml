@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultiPane UI With Fragment</string>
+    <string name="Hello">TextView</string>
+</resources>
